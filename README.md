@@ -1,4 +1,4 @@
-# calculadoraDeImc
+# calculadora-Imc
 
 Peso em Kg
 Altura em Metros
